@@ -1,0 +1,26 @@
+body {
+    background-color: lightcyan;
+}
+
+h1 {
+    color: salmon;
+}
+
+img {
+    display: block;
+    margin-right: 100px;
+    width: 400px;
+}
+
+button {
+    background-color: salmon;
+    color: white;
+    border: none;
+    text-decoration: none;
+    font-size: 24px;
+    border-radius: 20px;
+    width: 250px;
+    padding: 10px;
+    display: inline-block;
+    margin-bottom: 15px;
+}
