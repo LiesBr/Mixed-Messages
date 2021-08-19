@@ -13,6 +13,6 @@ const sentenceGenerator = obj => {
     h1.innerText = `${obj.nouns[randomIndex(obj.nouns)]}, ${obj.verbs[randomIndex(obj.verbs)]}`
 }
 
-btn.addEventListener('click', sentenceGenerator(hannahWords));
+// btn.addEventListener('click', sentenceGenerator(hannahWords));
 
 
